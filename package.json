@@ -1,0 +1,12 @@
+{
+  "name": "cordova-amolecoin-liteclient",
+  "version": "1.0.0",
+  "description": "Amolecoin Cordova Plugin",
+  "cordova": {
+    "id": "cordova-amolecoin-liteclient",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "amolecoin"
+}
